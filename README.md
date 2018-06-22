@@ -1,9 +1,9 @@
 # Team Description
 
-    - PI: Hiroyuki Takizawa (Tohoku University)
-    - co-PI: Reiji Suda (The university of Tokyo), Daisuke Takahashi (University of Tukuba), Ryusuke Egawa (Tohoku University)
-    - Research Period: 2011 – 2016
-    - Research highlights 
+- PI: Hiroyuki Takizawa (Tohoku University)
+- co-PI: Reiji Suda (The university of Tokyo), Daisuke Takahashi (University of Tukuba), Ryusuke Egawa (Tohoku University)
+- Research Period: 2011 – 2016
+- Research highlights 
 
 # Published Software
 
@@ -34,40 +34,3 @@ Abstraction technologies such as numerical libraries are strongly required to hi
 
 In this project, we are cataloging expert knowledge and experiences about code optimizations as the HPC refactoring catalog. The HPC refactoring catalog is open to the public (https://one.sc.cc.tohoku.ac.jp/hpcref/) so that programmers can share and reuse the knowledge and experiences. Description about the code optimization, code examples, and performance evaluation results are provided in the catalog, and code transformation rules are also provided for some important code optimization techniques.
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Post-Peta-Crest/sample/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Post-Peta-Crest/sample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
