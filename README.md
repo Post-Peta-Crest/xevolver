@@ -1,13 +1,15 @@
-# Team Description
+## Team Description
 
 - PI: Hiroyuki Takizawa (Tohoku University)
 - co-PI: Reiji Suda (The university of Tokyo), Daisuke Takahashi (University of Tukuba), Ryusuke Egawa (Tohoku University)
-- Research Period: 2011 – 2016
-- Research highlights 
+- Research Period: 2011 – 2017
+- Research highlights in [PDF](/xev-sc2017.pdf,"Xevolver SC17").
 
-# Published Software
+## Published Software
 
-# Achieving High Perormance Portabilty across Diverse System Architectures and Generations
+Visit the [Xevolver Project Page](https://xev.sc.cc.tohoku.ac.jp,"Xevolver Project").
+
+# Xevolver Project: Achieving High Perormance Portabilty across Diverse System Architectures and Generations
 
 ## Overview
 
