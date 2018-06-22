@@ -7,7 +7,7 @@
 
 ## Published Software
 
-Visit the [Xevolver Project Page](https://xev.sc.cc.tohoku.ac.jp).
+Visit the [Xevolver Project Page](http://xev.sc.cc.tohoku.ac.jp).
 
 # Xevolver Project: Achieving High Perormance Portabilty across Diverse System Architectures and Generations
 
